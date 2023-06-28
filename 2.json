@@ -1,0 +1,53 @@
+{
+    "name": "Cry Bot #0002-001IVPOIR",
+    "description": "Cry Bot",
+    "image": "ipfs://QmTUKJ2o39mrC4Xn8DcxuFp4DLb8ouVFidT4Vkv65iy53D/2.png",
+      "edition": 2,
+  
+    "attributes": [
+      {
+        "trait_type": "Style",
+        "value": "C"
+      },
+      {
+        "trait_type": "Body",
+        "value": "1"
+      },
+      {
+        "trait_type": "Primary Color",
+        "value": "IV-ivory"
+      },
+      {
+        "trait_type": "Secondary Color",
+        "value": "PO-pool"
+      },
+      {
+        "trait_type": "Tertiary Color",
+        "value": "IR-indian red"
+      },
+      {
+        "trait_type": "Value",
+        "value": "01k"
+      },
+      {
+        "trait_type":  "Type",
+        "value": "CU00X"
+      },
+      {
+        "trait_type": "Risk",
+        "value": "5"
+      },
+      {
+        "trait_type": "Freq",
+        "value": "5"
+      },
+      {
+        "trait_type": "Collection",
+        "value": "Genesis"
+      }
+     
+    ],
+    "compiler": "Dracore"
+  }
+  
+  

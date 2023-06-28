@@ -1,0 +1,52 @@
+{
+  "name": "Cry Bot #0001-001IVORTU",
+  "description": "Cry Bot",
+  "image": "ipfs://QmTUKJ2o39mrC4Xn8DcxuFp4DLb8ouVFidT4Vkv65iy53D/1.png",
+    "edition": 1,
+
+  "attributes": [
+    {
+      "trait_type": "Style",
+      "value": "C"
+    },
+    {
+      "trait_type": "Body",
+      "value": "1"
+    },
+    {
+      "trait_type": "Primary Color",
+      "value": "IV-ivory"
+    },
+    {
+      "trait_type": "Secondary Color",
+      "value": "OR-orange"
+    },
+    {
+      "trait_type": "Tertiary Color",
+      "value": "TU-turquoise"
+    },
+    {
+      "trait_type": "Value",
+      "value": "01k"
+    },
+    {
+      "trait_type": "Type",
+      "value": "CU00X"
+    },
+    {
+      "trait_type": "Risk",
+      "value": "5"
+    },
+    {
+      "trait_type": "Freq",
+      "value": "5"
+    },
+    {
+      "trait_type": "Collection",
+      "value": "Genesis"
+    }
+   
+  ],
+  "compiler": "Dracore"
+}
+
